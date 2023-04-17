@@ -242,8 +242,8 @@ section{
 
 }
 .about .about-content .left img{
-    height: 450px;
-    width: 350px;
+    height: 450px ;
+    width: 300px ;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -338,6 +338,12 @@ section{
 }
 .skills-content .right .MS::before{
     width: 100%;
+}
+.skills-content .right .Python:before{
+    width: 50%;
+}
+.skills-content .right .JS:before{
+    width: 50%;
 }
 
 
@@ -560,4 +566,3 @@ section{
         line-height: 38px;
     }
 }
-
