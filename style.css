@@ -242,8 +242,8 @@ section{
 
 }
 .about .about-content .left img{
-    height: 300px !important;
-    width: 350px !important;
+    height: 450px;
+    width: 350px;
     object-fit: cover;
     border-radius: 6px;
 }
