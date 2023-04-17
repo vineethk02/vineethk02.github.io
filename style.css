@@ -339,10 +339,10 @@ section{
 .skills-content .right .MS::before{
     width: 100%;
 }
-.skills-content .right .Python:before{
+.skills-content .right .Python::before{
     width: 50%;
 }
-.skills-content .right .JS:before{
+.skills-content .right .JS::before{
     width: 50%;
 }
 
